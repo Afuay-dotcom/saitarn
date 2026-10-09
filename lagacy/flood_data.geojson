@@ -1,0 +1,21 @@
+{
+    "features": [],
+    "links": [
+        {
+            "href": "https://api-gateway.gistda.or.th/api/2.0/resources/features/flood/30days?api_key=KLkBISIeru1vwT0VopxUurcv6iBYEFkK9IlbyAzpBWEuDNGdGXyKcA1vOdZrgd82",
+            "rel": "self",
+            "title": "This document",
+            "type": "application/geo+json"
+        },
+        {
+            "href": "https://api-gateway.gistda.or.th/api/2.0/resources/features/flood/30days?api_key=KLkBISIeru1vwT0VopxUurcv6iBYEFkK9IlbyAzpBWEuDNGdGXyKcA1vOdZrgd82",
+            "rel": "alternate",
+            "title": "This document",
+            "type": "application/json"
+        }
+    ],
+    "numberMatched": 0,
+    "numberReturned": 0,
+    "timeStamp": "2026-07-09T07:36:53.422Z",
+    "type": "FeatureCollection"
+}
